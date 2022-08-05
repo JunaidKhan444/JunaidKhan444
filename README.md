@@ -23,8 +23,10 @@
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
+ <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> 
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
+ <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
  
  ## Who am I?
  ```python
@@ -57,5 +59,6 @@
   
 
 ![Junaid's github stats](https://github-readme-stats.vercel.app/api?username=JunaidKhan444&show_icons=true&hide=[%22issues%22])
- 
- 
+  
+## My Repos
+ [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan444&repo=ZoomDashBoard&show_owner=true)](https://github.com/JunaidKhan444/ZoomDashBoard)
