@@ -55,7 +55,7 @@
  * Getting Started with Knockoutjs and the DRF!!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tHP95Gwk01sGcfxsraRVqw0biRYTrdMu/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1wADS8bVxjVMpZRoeJz5Enw0bWFvrH4jn/view?usp=sharing)
   
 
 ![Junaid's github stats](https://github-readme-stats.vercel.app/api?username=JunaidKhan444&show_icons=true&hide=[%22issues%22])
