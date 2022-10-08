@@ -56,10 +56,9 @@
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1wADS8bVxjVMpZRoeJz5Enw0bWFvrH4jn/view?usp=sharing)
-  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Junaids's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunaidKhan444)]
   
 ## My Repos
  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan444&repo=ZoomDashBoard&show_owner=true)](https://github.com/JunaidKhan444/ZoomDashBoard)
