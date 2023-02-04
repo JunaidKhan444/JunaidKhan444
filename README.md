@@ -4,7 +4,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-JunaidKhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junaidkhan1749/)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-mrjunaid444@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrjunaid444@gmail.com)](mailto:mrjunaid444@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-JunaidKhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junaidkhan1749/)](https://www.linkedin.com/in/junaidkhan1749/) [![Gmail Badge](https://img.shields.io/badge/-mrjunaid444@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrjunaid444@gmail.com)](mailto:mrjunaid444@gmail.com) 
 
 
 
