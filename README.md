@@ -16,8 +16,8 @@
 * Backend Web Development
 
 
-<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan444&layout=compact"> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan444)](https://github.com/JunaidKhan444/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan444&layout=compact">
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan444)](https://github.com/JunaidKhan444/github-readme-stats) -->
 
 ## Programming Languages
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> 
