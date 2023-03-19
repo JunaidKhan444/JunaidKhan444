@@ -16,7 +16,7 @@
 * Backend Web Development
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan444&layout=compact">
+<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JunaidKhan444&layout=compact">
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan444)](https://github.com/JunaidKhan444/github-readme-stats) -->
 
 ## Programming Languages
