@@ -64,3 +64,4 @@
   
 ## My Repos
  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan444&repo=ZoomDashBoard&show_owner=true)](https://github.com/JunaidKhan444/ZoomDashBoard)
+ [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=JunaidKhan444&repo=Kanban-Board&show_owner=true)](https://github.com/JunaidKhan444/Kanban-Board)
