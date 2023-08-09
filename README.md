@@ -11,9 +11,9 @@
 
 ## :computer: Technologies I Love
 * Python
-* Machine Learning
-* Data Science
+* TypeScript
 * Backend Web Development
+* Machine Learning
 
 
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JunaidKhan444&layout=compact">
@@ -52,9 +52,9 @@
  ```
  
 ## Current Works
- * Started learning Docker and PostgreSQL!!
+ * Started learning Docker and PostgreSQL !!
  * I'm currently working as Junior Software Engineer building **Apps with Nestjs and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with React-Native!!
+ * Getting Started with React-Native !!
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1wADS8bVxjVMpZRoeJz5Enw0bWFvrH4jn/view?usp=sharing)
