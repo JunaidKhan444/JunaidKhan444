@@ -52,8 +52,8 @@
  ```
  
 ## Current Works
- * Started learning Docker!!
- * I'm currently working as Software Engineer Backend Intern building **Apps with Django and Bootstrap** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * Started learning Docker and PostgreSQL!!
+ * I'm currently working as Junior Software Engineer building **Apps with Nestjs and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Getting Started with Knockoutjs and the DRF!!
  
 ## Other Stuff
