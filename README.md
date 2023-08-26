@@ -57,7 +57,7 @@
  * Getting Started with React-Native !!
 
 ## GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JunaidKhan444&theme=radical" alt="Junaid's GitHub Streak" style="width: 500px;" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidKhan444&" alt="JunaidKhan444" /></p>
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1wADS8bVxjVMpZRoeJz5Enw0bWFvrH4jn/view?usp=sharing)
