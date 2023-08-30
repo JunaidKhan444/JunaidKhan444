@@ -37,6 +37,7 @@
 		current_work = 'Writing code and find a new job'
 		hobbies = [
 				'Cricket',
+                                'Football',
 				'Watching Anime',
 				'Being up all Night chasing that ONE BUG...'
 			]
