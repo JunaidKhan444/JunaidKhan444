@@ -34,7 +34,7 @@
  ```python
  class WhoAmI:
  	user = 'Junaid Khan'
-		current_work = 'Writing code and find a new job'
+		current_work = 'Writing code and learning new technologies'
 		hobbies = [
 				'Cricket',
 				'Watching Anime',
