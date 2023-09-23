@@ -33,7 +33,7 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Junaid Khan'
+ 	user = "Junaid Khan"
 		current_work = "Writing code and learning new technologies"
 		hobbies = [
 				"Cricket",
