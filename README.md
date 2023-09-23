@@ -34,11 +34,11 @@
  ```python
  class WhoAmI:
  	user = 'Junaid Khan'
-		current_work = 'Writing code and learning new technologies'
+		current_work = "Writing code and learning new technologies"
 		hobbies = [
-				'Cricket',
-				'Watching Anime',
-				'Being up all Night chasing that ONE BUG...'
+				"Cricket",
+				"Watching Anime",
+				"Being up all Night chasing that ONE BUG..."
 			]
 	
 	def getCity():
