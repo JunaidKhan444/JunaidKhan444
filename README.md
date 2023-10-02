@@ -13,7 +13,6 @@
 * Python
 * TypeScript
 * Backend Web Development
-* Machine Learning
 
 
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JunaidKhan444&layout=compact">
