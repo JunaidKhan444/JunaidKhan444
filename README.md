@@ -14,7 +14,7 @@
 * TypeScript
 * Backend Web Development
 * SQL
-* Php
+* PHP
 
 
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JunaidKhan444&layout=compact">
