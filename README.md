@@ -1,4 +1,4 @@
-## Hey, [Junaid here!]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+M## Hey, [Junaid here!]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World...</h1> 
 
@@ -14,7 +14,7 @@
 * TypeScript
 * Backend Web Development
 * SQL
-* PHP
+
 
 
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JunaidKhan444&layout=compact">
