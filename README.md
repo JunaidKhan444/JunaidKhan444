@@ -49,7 +49,7 @@
  
 ## Current Works
  * Started learning Docker and PostgreSQL !!
- * I'm currently working as Junior Software Engineer building **Apps with Nestjs and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * I'm currently working as Junior Software Engineer building **Apps with Nestjs, Expressjs and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Getting Started with React-Native !!
 
 ## GitHub Stats
